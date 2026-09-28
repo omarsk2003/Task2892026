@@ -1,0 +1,20 @@
+[
+ {
+  "MealName":"Burger",
+  "Price":"4.99$",
+  "avalible":true
+  
+ },
+ {
+  "MealName":"shawarma",
+  "Price":"2.99$",
+  "avalible":true
+ },
+ {
+  "MealName":"Brosted",
+  "Price":"3.99$",
+  "avalible":true
+ }
+
+
+]
